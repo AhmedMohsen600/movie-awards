@@ -1,0 +1,14 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: 'border-box';
+}
+
+:root {
+  --primary-bg-color: #0d2436;
+  --default-font-color: #ffffff;
+  --hover-font-color: #cccccc;
+  --nominee-card-bg: #009b86;
+  --selected-nominee-bg: #34ac9c;
+  --selected-nominee-border: #ffffff;
+}

@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Category A",
+            "nominees": [
+                {
+                    "id": 101,
+                    "name": "Nominee 1A"
+                },
+                {
+                    "id": 102,
+                    "name": "Nominee 2A"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Category B",
+            "nominees": [
+                {
+                    "id": 201,
+                    "name": "Nominee 1B"
+                },
+                {
+                    "id": 202,
+                    "name": "Nominee 2B"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Category C",
+            "nominees": [
+                {
+                    "id": 301,
+                    "name": "Nominee 1C"
+                },
+                {
+                    "id": 302,
+                    "name": "Nominee 2C"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Category D",
+            "nominees": [
+                {
+                    "id": 401,
+                    "name": "Nominee 1D"
+                },
+                {
+                    "id": 402,
+                    "name": "Nominee 2D"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Category E",
+            "nominees": [
+                {
+                    "id": 501,
+                    "name": "Nominee 1E"
+                },
+                {
+                    "id": 502,
+                    "name": "Nominee 2E"
+                }
+            ]
+        }
+    ]
+}
