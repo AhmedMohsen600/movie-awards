@@ -1,5 +1,3 @@
-// /services/api.js
-
 const mockData = {
   categories: ['action', 'drama', 'comedy'],
   nominees: {

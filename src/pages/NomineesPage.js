@@ -2,7 +2,6 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import LoginForm from '../components/login-form/Login';
 import ResultsModal from '../components/modal/ResultsModal';
-// import { fetchBallotData } from '../../services/api';
 import NomineesList from '../components/nominees-list/NomineesList';
 import { openModal } from '../slices/modalSlice';
 import { setBallotData } from '../slices/nomineSlice';
